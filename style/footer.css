@@ -10,3 +10,15 @@
     text-decoration: none;
     color: #000000;
 }
+
+@media only screen and (max-width: 768px){
+
+
+    #footer{
+        background: #FFBDBD ;
+        bottom: 0;
+        position: sticky;
+        padding: 24px 20px;
+}
+
+}
