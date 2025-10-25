@@ -156,19 +156,19 @@
         background-image: none;
     }
     #hold{
-        margin:100px;
-        
+        margin:20px;
     }
 
     .text1{
         font-size: medium;
         font-style: italic;
         margin-bottom:100px;
+        text-align: center;
     }
 
     .sec1{
         display: flex;
-        justify-content: space-between;
+        justify-content: space-evenly;
         margin-bottom: 100px;       
     }
     .d2{
@@ -244,12 +244,12 @@
     .varie1{
         display: flex;
         justify-content: space-evenly;
-        width: 768px;
+        max-width: fit-content;
     }
     .varie2{
         display: flex;
         justify-content: space-evenly;
-        width: 768px;
+        max-width: fit-content;
     }
     
 
