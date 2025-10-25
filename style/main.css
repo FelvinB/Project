@@ -1,0 +1,130 @@
+#hold{
+    margin:200px;
+    
+}
+.sec1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 200px;
+    align-items: center;
+   
+}
+.d2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+    
+
+.text1{
+    font-size: xx-large;
+    font-style: italic;
+}
+.text2{
+    font-size: x-large;
+    text-align: center;
+}
+.text3{
+    margin-top: 20px;
+    font-size: x-large;
+    border: 1px black solid;
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+    background-color: #BADFDB;
+    
+}
+.text4{
+    margin-top: 20px;
+    font-size: x-large;
+    border: 1px black solid;
+    border-radius: 10px;
+    text-align: center;
+    width: 150px;
+    background-color: #99CCFF;
+}
+.text5{
+    margin-top: 20px;
+    font-size: x-large;
+    border: 1px black solid;
+    border-radius: 10px;
+    text-align: center;
+    width: 150px;
+    background-color: #BADFDB;
+}
+.bot{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+
+
+
+
+
+.sec2{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+     height: 800px;
+     margin-bottom: 400px;
+}
+.varitext{
+    
+        margin-top: 20px;
+        font-size: x-large;
+        border: 1px black solid;
+        border-radius: 10px;
+        text-align: center;
+        width: 300px;
+        background-color: #99CCFF;
+    
+}
+.vari{
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+}
+.vari1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    border: 1px #000000 solid;
+    border-radius: 10px;
+    padding: 30px;
+    height: 600px;
+    background-color: #FCF9EA;
+}
+
+
+
+
+.sec3{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        text-align: center;
+        height: 500px;
+}
+.text6{
+    font-size: x-large;
+    border: 1px solid #000000;
+    background-color: #FCF9EA;
+    border-radius: 10px;
+    padding: 30px;
+    
+
+}
+.tray1{
+        display: flex;
+        justify-content: space-evenly;
+}

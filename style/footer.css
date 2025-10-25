@@ -1,0 +1,12 @@
+#footer{
+        background: #FFBDBD ;
+        bottom: 0;
+        padding: 24px 20px;
+}
+
+.back a{
+    display: flex;
+    justify-content: end;
+    text-decoration: none;
+    color: #000000;
+}
