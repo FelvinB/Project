@@ -219,7 +219,7 @@
     .vari{
         display: flex;
         flex-direction: column;
-        justify-content: space-evenly;
+        justify-content: center;
         max-width: fit-content;
         max-height: fit-content;
     }
